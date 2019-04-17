@@ -307,9 +307,9 @@ Primary use:	Showcase Portfolio
 	}
 	
 	figcaption {
-		background-color: rgba(0,0,0,1);
+		background-color: #1351d8;
 		bottom: 25px;
-		color: #1351d8;
+		color: white;
 		font-weight:400;
 		font-size: 12px;
 		padding: 10px 20px;
